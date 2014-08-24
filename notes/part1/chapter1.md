@@ -5,9 +5,9 @@
 
   The topics covered were using RVM to install Ruby, using IRB, and writing some basic code in a ruby file and running it. 
 
-	-RVM: Ruby version manager, other ruby solutions weren't mentioned perhaps this was due to RVM's longer existence in the community
-  -IRB: *interactive ruby* a repl that allows a user to kick the tires with ruby
-	-running ruby code: ruby ___.rb runs any ruby code that's in the file.  Alternatively, a file can have no extension and have a shebang on the first line,
+-RVM: Ruby version manager, other ruby solutions weren't mentioned perhaps this was due to RVM's longer existence in the community
+-IRB: *interactive ruby* a repl that allows a user to kick the tires with ruby
+-running ruby code: ruby ___.rb runs any ruby code that's in the file.  Alternatively, a file can have no extension and have a shebang on the first line,
   #! /usr/bin/ruby which will allow the file to be marked as executable and will pick up the user's active ruby when running.
 
 ### What problems were addressed?
@@ -20,21 +20,21 @@
 
 ###How have I applied this knowledge?
 
- -I use rvm daily
- -I use irb/pry daily
- -I write .rb and command line executable ruby files regularly
+-I use rvm daily
+-I use irb/pry daily
+-I write .rb and command line executable ruby files regularly
 
 ###How can I extend this knowledge?
 
- -I can attempt to use other ruby version managers
- -I can become more familiar with all the options irb provides
+-I can attempt to use other ruby version managers
+-I can become more familiar with all the options irb provides
 
 ### What don't I understand?
 
- -I'm not too clear about the differences and tradeoffs between RVM, rbenv and chruby
- -I enjoy ruby, but am not entirely capable of answering Why Ruby over X?
- -What's lost with dynamic languages
- -Why doesn't ruby work well on Windows
+-I'm not too clear about the differences and tradeoffs between RVM, rbenv and chruby
+-I enjoy ruby, but am not entirely capable of answering Why Ruby over X?
+-What's lost with dynamic languages
+-Why doesn't ruby work well on Windows
 
 ###Can I explain what I learned? Have I?
 
